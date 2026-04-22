@@ -1,5 +1,5 @@
-# Currently, [SubConv](https://github.com/SubConv/SubConv) already incorporates all the functions of this repository and no longer maintains the ZJU version separately. Please use [SubConv](https://github.com/SubConv/SubConv) instead.
-# 目前 [SubConv](https://github.com/SubConv/SubConv) 已包含本仓库的所有功能，不再单独维护 ZJU 版本，请使用 [SubConv](https://github.com/SubConv/SubConv)
+# Currently, [SubConv](https://github.com/SubConv/SubConv) already incorporates all the functions (including ZJU related configurations) of this repository and no longer maintains the ZJU version separately. Please use [SubConv](https://github.com/SubConv/SubConv) instead.
+# 目前 [SubConv](https://github.com/SubConv/SubConv) 已包含本仓库的所有功能（包括ZJU配置），不再单独维护 ZJU 版本，请使用 [SubConv](https://github.com/SubConv/SubConv)
 
 # Subscription Converter
 This repository is only used to deploy the [SubConv](https://github.com/SubConv/SubConv) with ZJU configuration on [Vercel](https://vercel.com)  
